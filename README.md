@@ -1,32 +1,37 @@
 # Yahya Bakleh
 
-**AI Engineering · Robotics Perception · Python Backend · System Architecture**
+**Senior Software Engineer | Backend & AI Systems**
 
-I’m a Dubai-based Research and Development Engineer building production AI applications, computer vision solutions, and backend systems. I take ownership from architecture and implementation through deployment and ongoing improvement.
+I build production software that turns operational ideas into working systems. Based in Dubai, I work as a Research and Development Engineer, combining hands-on backend development, system architecture, applied AI and team leadership.
 
-## What I work on
+## What I build
 
-- **Robotics perception:** Object detection, semantic segmentation, multi-object tracking, LiDAR processing, terrain understanding, and sensor calibration.
-- **Robotics integration:** C++ and Python development, ROS1/ROS2, camera and LiDAR integration, and real-world testing and tuning.
-- **Edge AI:** NVIDIA Jetson deployment, TensorRT inference optimization, and efficient computer vision on resource-constrained hardware.
-- **Production AI:** LLM integration, dataset preparation, model evaluation, and inference optimization.
-- **Backend engineering:** Python APIs, asynchronous workflows, and event-driven data processing.
-- **System architecture:** Service integration, relational database design, scalability, and reliability.
-- **Technical delivery:** Maintainable software and experience leading eight developers delivering client applications.
+- **Backend platforms:** PHP/Laravel and Python services, REST APIs, asynchronous workflows and relational database design.
+- **Data pipelines:** Event-driven processing, Apache Kafka, data ingestion and large-scale data management.
+- **Production AI:** Locally hosted LLM integration with vLLM and Ollama, workflow automation, computer vision and inference optimization.
+- **End-to-end systems:** Integration across camera firmware, edge processing, backend services and cloud infrastructure, from concept through deployment.
+- **Device management:** Network management software and device-specific integrations based on vendor documentation.
+- **Technical delivery:** Team leadership, work planning, technical direction and production troubleshooting.
 
 ## Tools and technologies
 
-- **Robotics and vision:** C++, Python, ROS1/ROS2, OpenCV, PCL, Open3D
-- **AI and edge:** PyTorch, TensorFlow, YOLO, OpenVINO, TensorRT, NVIDIA Jetson (ARM64), Ollama
-- **Backend:** FastAPI, Flask, Django, Celery, Redis
-- **Data:** PostgreSQL, MySQL
-- **Deployment and workflow:** Docker, Linux, Git, CI/CD
-- **Additional experience:** PHP, Laravel
+| Area | Technologies |
+| --- | --- |
+| Backend | PHP, Laravel, Python, Django, FastAPI, Flask, REST APIs |
+| Data and messaging | MySQL, PostgreSQL, Apache Kafka, Redis, Celery |
+| AI and computer vision | vLLM, Ollama, PyTorch, TensorFlow, YOLO, OpenCV, OpenVINO |
+| Deployment | Docker, Linux, Git, GitLab CI/CD, GitHub Actions |
+| Web | JavaScript, Vue.js, CSS |
+| Additional robotics and edge experience | C++, ROS1/ROS2, LiDAR, PCL, Open3D, NVIDIA Jetson, TensorRT |
 
-## Engineering approach
+## Selected experience
 
-I build systems from the ground up, diagnose problems across software and data pipelines, and make AI capabilities useful in production. My work combines hands-on development, modular system design, technical documentation, and responsibility for delivery.
+- Delivered an operational platform from initial concept to production across edge devices, backend services and cloud integration.
+- Built a product using Laravel, MySQL and Vue.js, plus a centralized face-recognition attendance service and anti-spoofing model.
+- Developed an educational platform with PHP/Laravel and an ERP system with Python/Django.
+- Built satellite-image analysis software for weather prediction and custom Arabic OCR for document digitization.
+- Developed a mobile-app backend supporting live streaming, e-commerce and legal-services web applications.
 
-Professional project descriptions are kept general to respect confidentiality obligations.
+Professional project descriptions are intentionally general. Company source code, proprietary architecture and confidential implementation details are not shared here.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/yahya-bakleh-714587159/)
